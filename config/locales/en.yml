@@ -6,6 +6,15 @@ en:
       static_blog_link: "Static Blog"
       dynamic_blog_link: "Dynamic Blog"
       language_options: "View this page in:"
+  posts:
+    new:
+      header: "New Post"
+      title: "Title"
+      img_url: "img_url"
+      author: "Author"
+      body: "Body"
+      create_post: "Create Post"
+      back: "Back"
   static_pages:
     home:
       home_intro: "The benefits of eating right"
